@@ -1,0 +1,45 @@
+main{
+    margin-top: 1rem;
+}
+
+body{
+    margin-top: 1.5rem;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+form{
+    margin-top: 2rem;
+}
+
+.nav-bar{
+    text-transform: uppercase;
+}
+
+.text-right{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.text-left{
+    display: flex;
+    justify-content: flex-start;
+}
+
+button{
+    inline-size: 500px;
+}
+
+button.btnEnviar{
+    position: relative;
+    inline-size: unset;
+}
+
+.d-none{
+    display: none;
+}
+
+.d-block{
+    display: block;
+    
+}
